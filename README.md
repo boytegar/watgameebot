@@ -15,7 +15,7 @@ Install with python
 1. Download Python > install
 2. run in cmd pip install -r requirements.txt
 3. create file initdata.txt
-4. Open Bot Memefi di PC (Telegram Desktop) > settings > advanced > experimntal > enable webview inspecting
+4. Open Bot GAMEE WAT di PC (Telegram Desktop) > settings > advanced > experimntal > enable webview inspecting
     Ctrl + Shift + i to open inspect webview
 5. Open Application > Session Storage > copy all tgWebAppData ex: query=xxxxx or user=xxxx
 6. copy key from cmd and join group discussion [GroupChat](https://t.me/+gU8ad-nLYNI3NjY1)
