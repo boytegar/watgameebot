@@ -5,7 +5,7 @@ support my github channel
 
 Register Here : [GAMEE WAT](https://t.me/gamee?start=ref_6057140648)
 
-Join to My Telegram Group : [S4NSGroup](https://t.me/sanscryptox)
+Join to My Telegram Group : [S4NSGroup](https://t.me/sansxgroup)
 
 
 ## Tutorial
